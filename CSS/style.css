@@ -1610,14 +1610,14 @@ span.link a:hover svg path {
 }
 
 .head-img-wrap {
-  width: 300px;
+  width: 400px;
   flex-shrink: 0;
   margin-bottom: 0;
 }
 
 .head-img {
   border-radius: 12px;
-  aspect-ratio: 4/3;
+  aspect-ratio: 3/4;
   background: url("../img/profile.avif") top center / cover no-repeat;
 }
 
